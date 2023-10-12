@@ -1,4 +1,4 @@
-# Twitter_sentiment_amalysis_BERT
+# Twitter_sentiment_analysis_BERT
 
 ## Summary: 
 
